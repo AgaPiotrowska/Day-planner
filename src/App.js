@@ -12,7 +12,7 @@ function App() {
 
   useEffect(() => {
     getLocalTodos();
-  }, []);
+  }, [dispatch]);
 
   useEffect(() => {
   filterHandler();
