@@ -17,7 +17,7 @@ Once added to the list, the app gives you an option to mark fulfilled tasks as w
 
 You can also filter tasks by clicking **All/Completed/Uncompleted**.
 
-See live at: https://do-to-app.netlify.app/
+See live at: https://day-planner-app.netlify.app/
 
 ## Built with
 
